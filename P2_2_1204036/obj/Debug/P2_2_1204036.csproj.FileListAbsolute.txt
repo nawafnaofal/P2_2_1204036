@@ -1,0 +1,6 @@
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P2_2_1204036\P2_2_1204036\bin\Debug\P2_2_1204036.exe.config
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P2_2_1204036\P2_2_1204036\bin\Debug\P2_2_1204036.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P2_2_1204036\P2_2_1204036\bin\Debug\P2_2_1204036.pdb
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P2_2_1204036\P2_2_1204036\obj\Debug\P2_2_1204036.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P2_2_1204036\P2_2_1204036\obj\Debug\P2_2_1204036.pdb
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P2_2_1204036\P2_2_1204036\obj\Debug\P2_2_1204036.csprojResolveAssemblyReference.cache
